@@ -1,5 +1,9 @@
 ## Key Data Fields & Business Terms
 
+This file contains the data fields used along with their business definitions. It explains the meaning, purpose, and context of each field to have a clear understanding before analysis.
+
+---
+
 **Attrition Rate**  
   The percentage of employees who leave the company during a specific time period.
 
