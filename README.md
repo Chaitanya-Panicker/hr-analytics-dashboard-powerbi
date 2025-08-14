@@ -1,8 +1,9 @@
 # 👥📈 Employee Performance & Training Analysis
 
+<img width="1335" height="767" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8092fa4e-e122-427b-b37b-816c2b55948b" />
+
 ## 📌 Project Overview
-This project analyzes employee performance, promotion rates, attrition, and training hours using HR data.  
-It leverages Google BigQuery for data storage and querying, and Power BI for interactive dashboard creation.  
+This project analyzes employee performance, promotion rates, attrition, and training hours using HR data. It leverages Google BigQuery for data storage and querying, and Power BI for interactive dashboard creation.  
 The dashboard provides actionable insights for HR decision-making, talent retention, and workforce optimization.
 
 ---
@@ -54,14 +55,11 @@ The dashboard provides actionable insights for HR decision-making, talent retent
 ---
 
 ## 📬 Contact
-**Author**: Chaitanya  
-**Email**: your.email@example.com  
-**GitHub**: [Your GitHub Profile](https://github.com/)  
+👤 **Chaitanya Panicker**  
+📧 chaitanya.panicker98@gmail.com  
+🌐 https://www.linkedin.com/in/chaitanyapanicker 
 
 ---
 
 ## 📄 License
 Licensed under the **MIT License** – You are free to use, modify, and distribute with attribution.
-
----
-
